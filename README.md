@@ -1,6 +1,12 @@
-# Nuxt 3 Minimal Starter
+# My Nuxt3 Tutorial
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+
+## Modules
+
+- Vue.js 3.x
+- Nuxt 3.x
+- Tailwind CSS
 
 ## Setup
 
